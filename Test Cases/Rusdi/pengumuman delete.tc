@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji keberhasilan delete pengumuman</description>
+   <name>pengumuman delete</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e090752f-0abc-496c-bcce-8c85ffdee934</testCaseGuid>
+</TestCaseEntity>

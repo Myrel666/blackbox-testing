@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Pengumuman</name>
+   <tag></tag>
+   <elementGuidId>8ec1ebbc-3899-424d-91a6-d6c585a79590</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='menu']/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>73d97265-4f11-43d6-856f-14ce60cfd5a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://ega.infinityid.my.id/admin/pengumuman</value>
+      <webElementGuid>73b238e3-08f5-4c91-bc3b-d7ba93a2e249</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    
+                    Pengumuman
+                  </value>
+      <webElementGuid>4f608d12-a236-4171-a75b-0756861ddd64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu&quot;)/ul[@class=&quot;nav nav-main&quot;]/li[4]/a[1]</value>
+      <webElementGuid>a8b9cca3-b115-436e-b8da-b5bb020942ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='menu']/ul/li[4]/a</value>
+      <webElementGuid>91c2a1d5-a187-418a-aa4c-d8e590d6e41a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Warga'])[1]/following::a[1]</value>
+      <webElementGuid>a546a9e4-9461-4a54-b0c4-11e3b2038a1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Surat Keluar'])[1]/following::a[2]</value>
+      <webElementGuid>01befefa-149a-4aa2-9491-fde8f63c4cc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Guide'])[1]/preceding::a[1]</value>
+      <webElementGuid>db576b1d-0ed8-4cac-b925-2a0505612be0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://ega.infinityid.my.id/admin/pengumuman']</value>
+      <webElementGuid>04afcbb0-4aad-46d3-9b1a-e6dbcdd1f2bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>9cee7db6-141d-4be7-9da4-3e9a63e3c88d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://ega.infinityid.my.id/admin/pengumuman' and (text() = '
+                    
+                    Pengumuman
+                  ' or . = '
+                    
+                    Pengumuman
+                  ')]</value>
+      <webElementGuid>b6023484-c6ac-4f52-8e30-16da368690d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

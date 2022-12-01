@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>menguji apakah hasil dari cread dapat di dilihat pada tabel</description>
+   <name>pengumuman read</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b248ef98-7899-41b3-b967-dc0e1b0b3786</testCaseGuid>
+</TestCaseEntity>

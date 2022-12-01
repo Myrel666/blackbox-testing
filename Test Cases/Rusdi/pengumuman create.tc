@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji penambahan pengumuman</description>
+   <name>pengumuman create</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e203d40c-a7d8-4909-a8c4-3f9e60b9333b</testCaseGuid>
+</TestCaseEntity>
