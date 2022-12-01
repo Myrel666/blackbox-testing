@@ -1,4 +1,2 @@
 # blackbox-testing
-Creator:
-Ach. Rusdi
-Ega Almira
+Creator: Ega Amira & Ach. Rusdi
