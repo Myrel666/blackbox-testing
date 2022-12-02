@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>menghapus data surat keluar</description>
+   <name>data surat keluar (DELETE)</name>
+   <tag>Ega</tag>
+   <comment></comment>
+   <testCaseGuid>0fdf1b13-2acd-44d3-b4cd-a3b12ed52302</testCaseGuid>
+</TestCaseEntity>
