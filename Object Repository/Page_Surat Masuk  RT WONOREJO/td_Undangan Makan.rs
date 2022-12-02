@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Undangan Makan</name>
+   <tag></tag>
+   <elementGuidId>1a906750-6d23-4a5a-a8e1-9bf6908474fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='datatable-editable']/tbody/tr[5]/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>857a7676-803f-4513-af20-31fd25ea531a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Undangan Makan</value>
+      <webElementGuid>78df1ef1-5ee3-46ff-b8af-31089014e66a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datatable-editable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[2]</value>
+      <webElementGuid>af01c0b0-2673-43a7-8a23-11522f2829d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='datatable-editable']/tbody/tr[5]/td[2]</value>
+      <webElementGuid>6f8fa1af-5146-4b39-8fc0-17e7f8cd0cfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mentri pertahanan'])[1]/following::td[3]</value>
+      <webElementGuid>61e9cb35-ef59-49e3-88df-1ff4aeaebab7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='testing'])[1]/following::td[5]</value>
+      <webElementGuid>d7949b53-6540-4d05-93bc-c277d3ae9488</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Balai RT'])[1]/preceding::td[2]</value>
+      <webElementGuid>9b8d133b-b1f4-498f-9a6f-fd08a53e213c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 to 5 of 5 entries'])[1]/preceding::td[4]</value>
+      <webElementGuid>73e218b6-5ac1-448c-abb6-89103eda8573</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Undangan Makan']/parent::*</value>
+      <webElementGuid>2fa03415-604b-4205-8ba7-36ff7330a915</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[2]</value>
+      <webElementGuid>42de88fa-7ef2-4065-bb71-ed937c77fd8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Undangan Makan' or . = 'Undangan Makan')]</value>
+      <webElementGuid>44af9c65-6c1e-4fdc-a737-96bdbc443330</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

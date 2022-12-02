@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>membaca data surat masuk</description>
+   <name>data surat masuk (READ)</name>
+   <tag>Ega</tag>
+   <comment></comment>
+   <testCaseGuid>c819cb75-f907-4985-8ea8-17fa3fe02163</testCaseGuid>
+</TestCaseEntity>

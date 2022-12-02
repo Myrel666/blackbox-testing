@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_001</name>
+   <tag></tag>
+   <elementGuidId>04fa0224-6df3-4fdf-a03a-816a0be47b4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.even > td.sorting_1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='datatable-editable']/tbody/tr[2]/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>dc85f7bd-df14-40ef-934d-028b4d7b1716</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sorting_1</value>
+      <webElementGuid>4e75cd21-86f0-47d6-82bf-aa2dce071a30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>001</value>
+      <webElementGuid>f7ede92f-b6a6-4012-a1f1-cdbcf0ef764d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datatable-editable&quot;)/tbody[1]/tr[@class=&quot;even&quot;]/td[@class=&quot;sorting_1&quot;]</value>
+      <webElementGuid>cbe010b1-0109-4e5b-82c1-c51cf691117e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='datatable-editable']/tbody/tr[2]/td</value>
+      <webElementGuid>927edbab-6b82-4d04-a3c2-5d6b9a38ff51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Balai Desa'])[1]/following::td[2]</value>
+      <webElementGuid>d47231da-0e8b-49cb-957a-2a4132ce11f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Senam Massal'])[1]/following::td[4]</value>
+      <webElementGuid>2eef4189-a766-451f-b3d7-8be3cdee2810</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Senam Massal'])[2]/preceding::td[1]</value>
+      <webElementGuid>7939d186-1f9c-4b81-a6e8-1ac1a7d1ce1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Balai Desa'])[2]/preceding::td[3]</value>
+      <webElementGuid>c01f8120-d534-4ed1-8315-aa4ec448cb63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td</value>
+      <webElementGuid>83154b9d-418e-40ba-8217-8c6e93ebe90a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '001' or . = '001')]</value>
+      <webElementGuid>ee69a8ad-ac21-431b-8bea-0c60b2424724</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

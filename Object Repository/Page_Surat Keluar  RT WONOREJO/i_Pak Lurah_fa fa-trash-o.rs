@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Pak Lurah_fa fa-trash-o</name>
+   <tag></tag>
+   <elementGuidId>4d93b92a-32a2-4cc2-89af-71e4e07668cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-trash-o</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='datatable-editable']/tbody/tr/td[5]/form/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>701c3b00-6b69-4248-a426-563d78671322</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-trash-o</value>
+      <webElementGuid>01dd6cdb-f9db-48cc-be5a-e2d07a9ccde7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datatable-editable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;actions panel-body&quot;]/form[@class=&quot;button-inline&quot;]/button[@class=&quot;on-default remove-row&quot;]/i[@class=&quot;fa fa-trash-o&quot;]</value>
+      <webElementGuid>89af6644-31ad-450c-b35f-b6f954b5d9b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='datatable-editable']/tbody/tr/td[5]/form/button/i</value>
+      <webElementGuid>f269f637-56e4-449e-b4d6-a6011dde8ccb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>e9a314a4-e8cc-40e4-ae38-7760ad63bae9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Balai Desa_fa fa-trash-o</name>
+   <tag></tag>
+   <elementGuidId>e7020ca5-6742-4223-a539-3caadb878346</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-trash-o</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='datatable-editable']/tbody/tr/td[5]/form/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>985b9816-3b05-4e81-99cb-15a367d08548</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-trash-o</value>
+      <webElementGuid>1c55bd33-8042-4f34-8ad3-d50c500366f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datatable-editable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;actions panel-body&quot;]/form[@class=&quot;button-inline&quot;]/button[@class=&quot;on-default remove-row&quot;]/i[@class=&quot;fa fa-trash-o&quot;]</value>
+      <webElementGuid>be031cc5-7b27-4cac-a12e-bfa1d6124342</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='datatable-editable']/tbody/tr/td[5]/form/button/i</value>
+      <webElementGuid>077f0a92-f71d-4dbd-82c9-3b204cf1894d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>6627db1d-f793-4475-a89e-4f8cd53c9bb4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

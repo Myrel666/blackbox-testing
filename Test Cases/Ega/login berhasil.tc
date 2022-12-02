@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>login jika username dan password benar</description>
+   <name>login berhasil</name>
+   <tag>Ega</tag>
+   <comment></comment>
+   <testCaseGuid>b7d281f3-a731-4df3-8b04-7d34d3781ff8</testCaseGuid>
+</TestCaseEntity>

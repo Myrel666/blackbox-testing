@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Balai RT_fa fa-pencil</name>
+   <tag></tag>
+   <elementGuidId>af2ce6d8-89ad-4349-a87f-85958594481f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='tombolEdit']/i)[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c48da839-5d2e-4570-81d0-6d5f03a2e570</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-pencil</value>
+      <webElementGuid>5a0af3ea-0266-4015-9a63-36d6687b3a89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datatable-editable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;actions panel-body&quot;]/a[@id=&quot;tombolEdit&quot;]/i[@class=&quot;fa fa-pencil&quot;]</value>
+      <webElementGuid>3ca54393-a733-42fd-bb70-e787dfff80fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//a[@id='tombolEdit']/i)[3]</value>
+      <webElementGuid>bb23cd71-777a-4f7f-9509-1a20837d1f69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[5]/a/i</value>
+      <webElementGuid>26f3f1bc-3a2d-4d44-8728-7193fc2ad6bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

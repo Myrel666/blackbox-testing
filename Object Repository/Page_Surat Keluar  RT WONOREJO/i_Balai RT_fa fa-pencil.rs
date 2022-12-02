@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Balai RT_fa fa-pencil</name>
+   <tag></tag>
+   <elementGuidId>5bf1e2d7-69d8-4d47-9e9b-78b752722a7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-pencil</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='tombolEdit']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>5e3e784c-1d05-4807-adf6-b214d1e6089a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-pencil</value>
+      <webElementGuid>47bde21b-c103-4bc9-90fd-b682d4e49088</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datatable-editable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;actions panel-body&quot;]/a[@id=&quot;tombolEdit&quot;]/i[@class=&quot;fa fa-pencil&quot;]</value>
+      <webElementGuid>0d89b46d-7a47-40f9-a5b5-a001a5509b83</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='tombolEdit']/i</value>
+      <webElementGuid>6e41632d-aee8-4183-909c-95012029bfa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a/i</value>
+      <webElementGuid>9a2bc7a1-b37d-4c6f-8d27-89926d3ac774</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

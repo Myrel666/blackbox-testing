@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Balai Desa_fa fa-pencil</name>
+   <tag></tag>
+   <elementGuidId>5457c75a-eed3-4a25-98e8-2030f39a3701</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='tombolEdit']/i)[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a07608cc-13e5-4c53-8946-dab9b17cb5d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-pencil</value>
+      <webElementGuid>503fb3bd-54e5-4ff2-8a05-98f79f5a6134</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datatable-editable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;actions panel-body&quot;]/a[@id=&quot;tombolEdit&quot;]/i[@class=&quot;fa fa-pencil&quot;]</value>
+      <webElementGuid>8acdb15a-4b42-4ec9-85d4-57b90f443db1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//a[@id='tombolEdit']/i)[3]</value>
+      <webElementGuid>2a6d50f6-876a-40dd-953d-3503830582a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[5]/a/i</value>
+      <webElementGuid>07ce9927-c98c-4762-8845-43147d7919b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

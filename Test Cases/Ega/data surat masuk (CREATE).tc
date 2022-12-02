@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>membuat surat masuk</description>
+   <name>data surat masuk (CREATE)</name>
+   <tag>Ega</tag>
+   <comment></comment>
+   <testCaseGuid>ea580dfd-7496-4635-bb46-dcef8ddea005</testCaseGuid>
+</TestCaseEntity>
