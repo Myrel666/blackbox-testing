@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji delete data warga</description>
+   <name>data warga delete</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76fd0680-eedd-4ff0-8724-bf7ffff0cd69</testCaseGuid>
+</TestCaseEntity>

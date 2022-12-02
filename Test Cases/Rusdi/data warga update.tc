@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji update data</description>
+   <name>data warga update</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c05ea7c2-cd7d-449c-889d-733275929e1f</testCaseGuid>
+</TestCaseEntity>

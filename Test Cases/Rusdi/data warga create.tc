@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji membuat data warga</description>
+   <name>data warga create</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>376a4b00-2b60-4ac4-9b80-3b5591f5a5dd</testCaseGuid>
+</TestCaseEntity>

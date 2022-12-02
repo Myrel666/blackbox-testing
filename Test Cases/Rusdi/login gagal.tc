@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji negatif login dengan password 'admin'</description>
+   <name>login gagal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6028ba56-d0d6-48c2-ab62-88b5c76af37f</testCaseGuid>
+</TestCaseEntity>

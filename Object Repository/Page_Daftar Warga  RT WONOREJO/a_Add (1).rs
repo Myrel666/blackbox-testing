@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add (1)</name>
+   <tag></tag>
+   <elementGuidId>159f437b-a742-4441-8f33-550413261460</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Add')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.modal-with-move-anim.btn.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>09eead98-487f-402b-b260-7c1429b20b8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-with-move-anim btn btn-primary</value>
+      <webElementGuid>b8d40f91-1cea-46fb-bc65-9bb7441130ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#modalAdd</value>
+      <webElementGuid>a05d6f04-a15f-4ecd-b138-499804323ba9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Add 
+              </value>
+      <webElementGuid>176cb19f-6e76-43aa-8118-2dde58fb63da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fixed js flexbox flexboxlegacy csstransforms csstransforms3d no-overflowscrolling no-mobile-device custom-scroll&quot;]/body[1]/section[@class=&quot;body&quot;]/div[@class=&quot;inner-wrapper&quot;]/section[@class=&quot;content-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg&quot;]/section[@class=&quot;panel&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;mb-md&quot;]/a[@class=&quot;modal-with-move-anim btn btn-primary&quot;]</value>
+      <webElementGuid>8008a6f7-8aa4-4b08-a0b7-084ad71a85c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add')]</value>
+      <webElementGuid>bff18520-9dea-42d4-acf7-8351b3c69f1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Warga'])[2]/following::a[1]</value>
+      <webElementGuid>8a5d85df-791f-4fba-b606-56c5d0b0fb32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Warga'])[1]/following::a[2]</value>
+      <webElementGuid>e5303c20-4af0-4be0-93e1-3a106b9a491c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cetak Data Warga'])[1]/preceding::a[1]</value>
+      <webElementGuid>f6a8b9b2-9e1c-4f2e-8aaa-47673a015526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add']/parent::*</value>
+      <webElementGuid>8e79183d-a277-4c01-8071-b0852df8588e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#modalAdd')]</value>
+      <webElementGuid>02415171-2ec1-4759-a36e-3ebad53766e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/a</value>
+      <webElementGuid>e6ea231e-74cd-4db0-a09e-0819252fd09e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#modalAdd' and (text() = '
+                Add 
+              ' or . = '
+                Add 
+              ')]</value>
+      <webElementGuid>43e65671-47ee-4f0b-87a6-62485ee9f7b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
